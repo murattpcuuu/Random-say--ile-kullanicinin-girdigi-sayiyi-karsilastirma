@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+body {
+    font-family: 'Rubik Moonrocks', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+#brandom{
+    /* display: flex; */
+    justify-content: center;
+    border: 0.1rem black solid;
+    margin:10px 5px;
+    padding:10px;
+}
+
+#ktahmin{
+    /* display: flex; */
+    justify-content: center;
+    border: 0.1rem black solid;
+    margin:10px 5px;
+    padding:10px;
+}
+
+#input {
+    /* display: flex; */
+    justify-content: left;
+    text-align: center;
+    width: 10rem;
+    height: 30px;
+    border: 3px black solid;
+}
+
+#gönder {
+    width: 10rem;
+    height: 30px;
+    border: 3px black solid;
+    position: relative;
+    /* top: 150px; */
+    /* right: 50px; */
+}
+
+#id {
+    justify-content: right;
+    align-items: right;
+    padding-left: 10px;
+}
